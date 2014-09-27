@@ -1,0 +1,4 @@
+! urxvt
+URxvt.scrollBar: false
+
+#include "tomorrow-theme/Xdefaults/XresourceTomorrowNightBright"

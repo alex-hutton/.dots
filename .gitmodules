@@ -4,3 +4,6 @@
 [submodule "git-config"]
 	path = git-config
 	url = git@github.com:alex-hutton/git-config
+[submodule "tomorrow-theme"]
+	path = tomorrow-theme
+	url = git@github.com:chriskempson/tomorrow-theme

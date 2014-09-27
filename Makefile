@@ -5,3 +5,4 @@ install:
 	git submodule update --init --recursive
 	cd vim-config && make
 	cd git-config && PERSONA=${PERSONA} make
+	ln --symbolic --force .dots/Xresources ~/.Xresourcea
