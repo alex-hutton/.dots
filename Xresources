@@ -1,4 +1,7 @@
 ! urxvt
 URxvt.scrollBar: false
+URxvt.geometry: 85x30
+URxvt.font: xft:Plasmatic:size=10
+URxvt.boldFont:
 
 #include "tomorrow-theme/Xdefaults/XresourceTomorrowNightBright"
