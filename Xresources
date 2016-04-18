@@ -1,8 +1,10 @@
 ! urxvt
 URxvt.scrollBar: false
 URxvt.geometry: 85x30
-URxvt.font: xft:Half Bold Pixel\-7:size=12
+!URxvt.font: xft:Half Bold Pixel\-7:size=8
+URxvt.font: xft:TakaoPGothic:size=10
 URxvt.boldFont:
-URxvt.letterSpace: -2
+URxvt.letterSpace: -5
+URxvt.lineSpace: -10
 
-#include "tomorrow-theme/Xdefaults/XresourceTomorrowNightBright"
+#include "jmbi"
