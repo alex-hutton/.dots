@@ -7,3 +7,6 @@
 [submodule "tomorrow-theme"]
 	path = tomorrow-theme
 	url = git@github.com:chriskempson/tomorrow-theme
+[submodule "tmux-config"]
+	path = tmux-config
+	url = git@github.com:alex-hutton/tmux-config.git
