@@ -1,6 +1,6 @@
 #include ".dots/jmbi"
 URxvt.background: black
-URxvt.font:xft:Monoid:regular:size=32,antialias=true
+URxvt.font:xft:Monoid:regular:size=26,antialias=true
 URxvt.foreground: white
 URxvt.iso14755: false
 URxvt.iso14755_52: false
