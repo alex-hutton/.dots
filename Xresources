@@ -1,10 +1,9 @@
-! urxvt
+#include ".dots/jmbi"
+URxvt.background: black
+URxvt.font:xft:Monoid:regular:size=26,antialias=true
+URxvt.foreground: white
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+URxvt.letterSpace:1
+URxvt.perl-ext-common: resize-font
 URxvt.scrollBar: false
-URxvt.geometry: 85x30
-!URxvt.font: xft:Half Bold Pixel\-7:size=8
-URxvt.font: xft:TakaoPGothic:size=10
-URxvt.boldFont:
-URxvt.letterSpace: -5
-URxvt.lineSpace: -10
-
-#include "jmbi"
